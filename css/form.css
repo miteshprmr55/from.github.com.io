@@ -1,0 +1,23 @@
+div {
+    border: 2px black solid;
+    width: 400px;
+    height: 350px;
+}
+h1 {
+    font-size: 1em;
+}
+.date {
+    margin-right: 30px;
+}
+.appo {
+    margin-right: 28px;
+}
+.enurl {
+    margin-right: 23px;
+}
+span {
+    margin-left: 10px;
+}
+.uppt {
+    margin-left: 60px;
+}
